@@ -3,6 +3,6 @@
 <!--
 
 **We are ready to delivery the best open source mobile browser:**
-![Opx Browser mission](https://imgur.com/RPJqn9s.png)
+![Opx Browser Mission](https://imgur.com/RPJqn9s.png)
 
 -->
